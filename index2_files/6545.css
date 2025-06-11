@@ -1,0 +1,22 @@
+.trvdfloater {
+    z-index: 9999999999 !important;
+}
+.trv-player-container .trv-currentTime,.trv-player-container .timeDivider,.trv-player-container .trv-duration {
+    line-height: 28px !important;
+}
+
+.trv-close-deprecated {
+    background: #000000;
+    border-radius: 50%;
+}
+
+.trv-close-deprecated > svg {
+height: 18px;
+left: -3px;
+position: relative !important;
+top: -2.2px;
+}
+
+.trv-poster {
+    overflow: hidden !important;
+}
